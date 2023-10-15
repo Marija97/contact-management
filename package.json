@@ -1,0 +1,23 @@
+{
+  "name": "my-contacts-backend-api",
+  "version": "1.0.0",
+  "description": "This project marks the beginning of my post-college backend development journey.",
+  "main": "NodeJS REST API Demo App",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marija97/contact-management.git"
+  },
+  "author": "Marija Vujica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marija97/contact-management/issues"
+  },
+  "homepage": "https://github.com/Marija97/contact-management#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
